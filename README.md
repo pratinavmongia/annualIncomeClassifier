@@ -18,14 +18,13 @@ Compared the performance of classification models on the task of predicting whet
 - Hours per week
 - Native country
 
-<br />
-<br />
+
 The performance of the following classifiers were compared
-<ul> Decision Tree
-<ul> Random Forest
-<ul> KNN
-<ul> Logistic Regression
-<ul> SVM 
+- Decision Tree
+- Random Forest
+- KNN
+- Logistic Regression
+- SVM 
 
 
 
